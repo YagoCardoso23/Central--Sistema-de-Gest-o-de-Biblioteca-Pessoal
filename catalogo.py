@@ -1,18 +1,38 @@
+# --- 1. VARIÁVEIS GLOBAIS ---
 # A "prateleira" da sua biblioteca: uma lista vazia.
-# Ela armazenará dicionários (que são os livros).
 catalogo = []
 
 # Variável para gerar IDs únicos automaticamente.
-# Como é o primeiro livro, o próximo ID será 1.
 proximo_id = 1 
 
-# Funções (def) são blocos de código que fazem uma tarefa específica.
+# --- 2. DEFINIÇÃO DA FUNÇÃO (Lógica) ---
 def adicionar_livro(titulo, autor):
-  
-# Precisamos avisar que vamos alterar as variáveis globais 'catalogo' e 'proximo_id'
-    # 'global' é usado quando modificamos variáveis definidas fora da função
-  global catalogo
-  global proximo_id
+    
+    # IMPORTANTE: Estas linhas devem estar identadas (4 espaços) para estarem dentro da função.
+    global catalogo
+    global proximo_id
+
+    # 1. Cria o dicionario do livro
+    novo_livro = {
+        "id": proximo_id,
+        "titulo": titulo,
+        "autor": autor,
+        "status": "Disponível" # Corrigido para 'Disponível' para padrão
+    }
+
+    # 2. Adicionar o novo livro ao catálogo
+    catalogo.append(novo_livro)
+
+    # 3. Atualizar ID e imprimir feedback
+    print(f"Livro '{titulo}' (ID: {proximo_id}) adicionado ao catálogo.")
+    proximo_id += 1 # A lógica para gerar IDs unicas
 
 
+# --- 3. CHAMADAS DA FUNÇÃO (Execução e Teste) ---
+adicionar_livro("Clean Code", "Robert C. Martin")
+adicionar_livro("Design Patterns", "Erich Gamma")
+# Note que sem estas chamadas, nada acontece, e o erro persistiria na execução!
 
+# Imprime o catálogo final
+print("\n--- Catálogo Atual ---")
+print(catalogo)
