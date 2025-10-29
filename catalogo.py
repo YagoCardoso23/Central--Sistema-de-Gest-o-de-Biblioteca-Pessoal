@@ -20,19 +20,38 @@ def adicionar_livro(titulo, autor):
         "status": "Disponível" # Corrigido para 'Disponível' para padrão
     }
 
-    # 2. Adicionar o novo livro ao catálogo
     catalogo.append(novo_livro)
+    proximo_id += 1 
 
-    # 3. Atualizar ID e imprimir feedback
-    print(f"Livro '{titulo}' (ID: {proximo_id}) adicionado ao catálogo.")
-    proximo_id += 1 # A lógica para gerar IDs unicas
+def listar_livros():
+    print("\n======== Catálogo da Biblioteca ========")
+
+    #verifica se ha livros para evitar erros e dar um bom feedback
+    if not catalogo:
+        print("O catalogo está vazio")
+        return #Termina a função aqui se não houver livros 
+    
+    #2. laço de repetição (for loop ):
+    #Percorre cada item (que chamaremos de 'livros') dentro da lista 'catalogo'.
+    for livro in catalogo:
+        # 3. Formatação da Saída:
+        # Usamos F-string para formatar os dados do dicionário 'livro'
+        # e apresentá-los de forma amigável.
+        print(f"ID: {livro['id']} | Título: {livro['titulo']:<30} | Autor: {livro['autor']:<20} | Status: {livro['status']}")
+    
+    print("========================================")
 
 
+def buscar_livros(id_livros):
+    # Percorre cada livro no catalogo 
+    for livro in catalogo:
+        #estruturar de 
+        if livro['id'] == id_livros:
+
+            return livro 
 # --- 3. CHAMADAS DA FUNÇÃO (Execução e Teste) ---
 adicionar_livro("Clean Code", "Robert C. Martin")
 adicionar_livro("Design Patterns", "Erich Gamma")
+adicionar_livro("A Startup Enxuta", "Eric Reis")
 # Note que sem estas chamadas, nada acontece, e o erro persistiria na execução!
-
-# Imprime o catálogo final
-print("\n--- Catálogo Atual ---")
-print(catalogo)
+listar_livros()
