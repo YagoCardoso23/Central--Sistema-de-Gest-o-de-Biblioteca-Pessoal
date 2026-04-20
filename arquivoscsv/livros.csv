@@ -1,0 +1,505 @@
+ID_Livro,Título,Autor,Ano,Gênero,Disponível
+1,Duna,Frank Herbert,1965,Ficção Científica e Fantasia,Sim
+2,1984,George Orwell,1949,Ficção Científica e Fantasia,Sim
+3,O Senhor dos Anéis: A Sociedade do Anel,J.R.R. Tolkien,1954,Ficção Científica e Fantasia,Sim
+4,Fundação,Isaac Asimov,1951,Ficção Científica e Fantasia,Sim
+5,Neuromancer,William Gibson,1984,Ficção Científica e Fantasia,Sim
+6,Admirável Mundo Novo,Aldous Huxley,1932,Ficção Científica e Fantasia,Sim
+7,A Mão Esquerda da Escuridão,Ursula K. Le Guin,1969,Ficção Científica e Fantasia,Sim
+8,O Guia do Mochileiro das Galáxias,Douglas Adams,1979,Ficção Científica e Fantasia,Sim
+9,O Nome do Vento,Patrick Rothfuss,2007,Ficção Científica e Fantasia,Sim
+10,Contato,Carl Sagan,1985,Ficção Científica e Fantasia,Sim
+11,IT: A Coisa,Stephen King,1986,"Thriller, Suspense e Terror",Sim
+12,O Exorcista,William Peter Blatty,1971,"Thriller, Suspense e Terror",Sim
+13,O Iluminado,Stephen King,1977,"Thriller, Suspense e Terror",Sim
+14,O Silêncio dos Inocentes,Thomas Harris,1988,"Thriller, Suspense e Terror",Sim
+15,Drácula,Bram Stoker,1897,"Thriller, Suspense e Terror",Sim
+16,O Cemitério,Stephen King,1983,"Thriller, Suspense e Terror",Sim
+17,A Garota no Trem,Paula Hawkins,2015,"Thriller, Suspense e Terror",Sim
+18,Gone Girl (Garota Exemplar),Gillian Flynn,2012,"Thriller, Suspense e Terror",Sim
+19,A Paciente Silenciosa,Alex Michaelides,2019,"Thriller, Suspense e Terror",Sim
+20,Caixa de Pássaros,Josh Malerman,2014,"Thriller, Suspense e Terror",Sim
+21,Cem Anos de Solidão,Gabriel García Márquez,1967,Literatura,Sim
+22,O Sol é para Todos,Harper Lee,1960,Literatura,Sim
+23,O Grande Gatsby,F. Scott Fitzgerald,1925,Literatura,Sim
+24,Orgulho e Preconceito,Jane Austen,1813,Literatura,Sim
+25,Crime e Castigo,Fiódor Dostoiévski,1866,Literatura,Sim
+26,Moby Dick,Herman Melville,1851,Literatura,Sim
+27,Dom Casmurro,Machado de Assis,1899,Literatura,Sim
+28,As Vinhas da Ira,John Steinbeck,1939,Literatura,Sim
+29,O Estrangeiro,Albert Camus,1942,Literatura,Sim
+30,Vidas Secas,Graciliano Ramos,1938,Literatura,Sim
+31,Sapiens: Uma Breve História da Humanidade,Yuval Noah Harari,2011,História,Sim
+32,Escravidão,Laurentino Gomes,2019,História,Sim
+33,Raízes do Brasil,Sérgio Buarque de Holanda,1936,História,Sim
+34,Holocausto: Uma História,Deborah Dwork,2001,História,Sim
+35,Brasil: Uma Biografia,Lilia Moritz Schwarcz,2015,História,Sim
+36,O Capital,Karl Marx,1867,História,Sim
+37,O Príncipe,Nicolau Maquiavel,1532,História,Sim
+38,A Arte da Guerra,Sun Tzu,Século V a.C.,História,Sim
+39,Círculo de Fogo,Bernard Cornwell,1993,História,Sim
+40,A Revolução Francesa,Thomas Carlyle,1837,História,Sim
+41,Steve Jobs: A Biografia,Walter Isaacson,2011,Biografia e Memórias,Sim
+42,Longo Caminho Para a Liberdade,Nelson Mandela,1994,Biografia e Memórias,Sim
+43,Eu Sou Malala,Malala Yousafzai,2013,Biografia e Memórias,Sim
+44,O Diário de Anne Frank,Anne Frank,1947,Biografia e Memórias,Sim
+45,Mindhunter,John Douglas,1995,Biografia e Memórias,Sim
+46,Elon Musk,Ashlee Vance,2015,Biografia e Memórias,Sim
+47,Cinderela Chinesa,Adeline Yen Mah,1999,Biografia e Memórias,Sim
+48,Confissões,Santo Agostinho,400,Biografia e Memórias,Sim
+49,A Bailarina de Auschwitz,Edith Eger,2017,Biografia e Memórias,Sim
+50,Uma Terra Prometida,Barack Obama,2020,Biografia e Memórias,Sim
+51,O Poder do Hábito,Charles Duhigg,2012,Autoajuda e Ciência,Sim
+52,Uma Breve História do Tempo,Stephen Hawking,1988,Autoajuda e Ciência,Sim
+53,Como Fazer Amigos e Influenciar Pessoas,Dale Carnegie,1936,Autoajuda e Ciência,Sim
+54,Cosmos,Carl Sagan,1980,Autoajuda e Ciência,Sim
+55,Quiet: O Poder dos Quietos,Susan Cain,2012,Autoajuda e Ciência,Sim
+56,A Sutil Arte de Ligar o F*da-se,Mark Manson,2016,Autoajuda e Ciência,Sim
+57,Pensamento Rápido e Devagar,Daniel Kahneman,2011,Autoajuda e Ciência,Sim
+58,A Teoria de Tudo,Stephen Hawking,2002,Autoajuda e Ciência,Sim
+59,O Poder do Agora,Eckhart Tolle,1997,Autoajuda e Ciência,Sim
+60,Introdução à Lógica,Irving Copi,1953,Autoajuda e Ciência,Sim
+61,O Hobbit,J.R.R. Tolkien,1937,Ficção Científica e Fantasia,Sim
+62,O Problema dos Três Corpos,Liu Cixin,2008,Ficção Científica e Fantasia,Sim
+63,A Roda do Tempo: O Olho do Mundo,Robert Jordan,1990,Ficção Científica e Fantasia,Sim
+64,The Witcher: O Último Desejo,Andrzej Sapkowski,1993,Ficção Científica e Fantasia,Sim
+65,Harry Potter e a Pedra Filosofal,J.K. Rowling,1997,Ficção Científica e Fantasia,Sim
+66,A Crônica do Matador do Rei: O Temor do Sábio,Patrick Rothfuss,2011,Ficção Científica e Fantasia,Sim
+67,Sombra e Ossos,Leigh Bardugo,2012,Ficção Científica e Fantasia,Sim
+68,American Gods,Neil Gaiman,2001,Ficção Científica e Fantasia,Sim
+69,O Ladrão de Raios (Percy Jackson),Rick Riordan,2005,Ficção Científica e Fantasia,Sim
+70,A Biblioteca da Meia-Noite,Matt Haig,2020,Ficção Científica e Fantasia,Sim
+71,O Estranho Caso do Dr. Jekyll e Mr. Hyde,Robert Louis Stevenson,1886,"Thriller, Suspense e Terror",Sim
+72,Carrie,Stephen King,1974,"Thriller, Suspense e Terror",Sim
+73,O Símbolo Perdido,Dan Brown,2009,"Thriller, Suspense e Terror",Sim
+74,Um de Nós Está Mentindo,Karen M. McManus,2017,"Thriller, Suspense e Terror",Sim
+75,O Homem Invisível,H.G. Wells,1897,"Thriller, Suspense e Terror",Sim
+76,O Pássaro de Deus,Val McDermid,2003,"Thriller, Suspense e Terror",Sim
+77,O Mago,John Fowles,1965,"Thriller, Suspense e Terror",Sim
+78,O Nome da Rosa,Umberto Eco,1980,"Thriller, Suspense e Terror",Sim
+79,Histórias Extraordinárias,Edgar Allan Poe,1840,"Thriller, Suspense e Terror",Sim
+80,O Enigma de Goya,José Rodrigues dos Santos,2009,"Thriller, Suspense e Terror",Sim
+81,O Velho e o Mar,Ernest Hemingway,1952,Literatura,Sim
+82,A Morte de Ivan Ilitch,Liev Tolstói,1886,Literatura,Sim
+83,O Jardim Secreto,Frances Hodgson Burnett,1911,Literatura,Sim
+84,Anna Kariênina,Liev Tolstói,1877,Literatura,Sim
+85,O Vento nos Salgueiros,Kenneth Grahame,1908,Literatura,Sim
+86,A Cor Púrpura,Alice Walker,1982,Literatura,Sim
+87,Obras Completas,Carlos Drummond de Andrade,1930,Literatura,Sim
+88,O Quinze,Rachel de Queiroz,1930,Literatura,Sim
+89,Macunaíma,Mário de Andrade,1928,Literatura,Sim
+90,O Auto da Compadecida,Ariano Suassuna,1955,Literatura,Sim
+91,Box As Crônicas Saxônicas,Bernard Cornwell,2004,História,Sim
+92,Círculo de Fogo,Bernard Cornwell,1993,História,Sim
+93,O Tempo e o Vento: O Continente,Erico Verissimo,1949,História,Sim
+94,O Cântico de Roland,Turoldo,Século XI,História,Sim
+95,A Revolução Francesa,Thomas Carlyle,1837,História,Sim
+96,O Mundo Assombrado pelos Demônios,Carl Sagan,1995,Autoajuda e Ciência,Sim
+97,Mulheres Que Correm Com os Lobos,Clarissa Pinkola Estés,1992,Autoajuda e Ciência,Sim
+98,A Dança Cósmica de Shiva,Fritjof Capra,1975,Autoajuda e Ciência,Sim
+99,O Milagre da Manhã,Hal Elrod,2012,Autoajuda e Ciência,Sim
+100,Foco,Daniel Goleman,2013,Autoajuda e Ciência,Sim
+ID_Livro,Título,Autor,Ano,Gênero,Disponível
+101,O Ladrão de Raios (Percy Jackson),Rick Riordan,2005,Ficção Científica e Fantasia,Sim
+102,O Mar de Monstros (Percy Jackson),Rick Riordan,2006,Ficção Científica e Fantasia,Sim
+103,A Maldição do Titã (Percy Jackson),Rick Riordan,2007,Ficção Científica e Fantasia,Sim
+104,O Último Olimpiano (Percy Jackson),Rick Riordan,2009,Ficção Científica e Fantasia,Sim
+105,O Filho de Netuno (Heróis do Olimpo),Rick Riordan,2011,Ficção Científica e Fantasia,Sim
+106,Harry Potter e a Câmara Secreta,J.K. Rowling,1998,Ficção Científica e Fantasia,Sim
+107,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,1999,Ficção Científica e Fantasia,Sim
+108,Harry Potter e o Cálice de Fogo,J.K. Rowling,2000,Ficção Científica e Fantasia,Sim
+109,Harry Potter e a Ordem da Fênix,J.K. Rowling,2003,Ficção Científica e Fantasia,Sim
+110,Harry Potter e o Enigma do Príncipe,J.K. Rowling,2005,Ficção Científica e Fantasia,Sim
+111,O Exterminador do Futuro: Gênesis,Greg Cox,2015,Ficção Científica e Fantasia,Sim
+112,O Castelo Animado,Diana Wynne Jones,1986,Ficção Científica e Fantasia,Sim
+113,A Lenda de Sleepy Hollow,Washington Irving,1820,"Thriller, Suspense e Terror",Sim
+114,A Casa dos Pesadelos,Stephen King,1999,"Thriller, Suspense e Terror",Sim
+115,O Lado Mais Sombrio,Mindy McGinnis,2014,"Thriller, Suspense e Terror",Sim
+116,O Labirinto do Fauno,Guillermo del Toro,2006,"Thriller, Suspense e Terror",Sim
+117,O Caçador de Pipas,Khaled Hosseini,2003,Literatura,Sim
+118,A Cidade do Sol,Khaled Hosseini,2007,Literatura,Sim
+119,O Deus das Pequenas Coisas,Arundhati Roy,1997,Literatura,Sim
+120,O Alquimista,Paulo Coelho,1988,Literatura,Sim
+121,Diário de um Mago,Paulo Coelho,1987,Literatura,Sim
+122,O Pequeno Príncipe,Antoine de Saint-Exupéry,1943,Literatura,Sim
+123,A Metamorfose,Franz Kafka,1915,Literatura,Sim
+124,O Processo,Franz Kafka,1925,Literatura,Sim
+125,O Estrangeiro,Albert Camus,1942,Literatura,Sim
+126,Brasil: Uma Biografia,Lilia Moritz Schwarcz,2015,História,Sim
+127,Raízes do Brasil,Sérgio Buarque de Holanda,1936,História,Sim
+128,Holocausto: Uma História,Deborah Dwork,2001,História,Sim
+129,O Capital,Karl Marx,1867,História,Sim
+130,O Príncipe,Nicolau Maquiavel,1532,História,Sim
+131,A Revolução Francesa,Thomas Carlyle,1837,História,Sim
+132,Círculo de Fogo,Bernard Cornwell,1993,História,Sim
+133,Box As Crônicas Saxônicas,Bernard Cornwell,2004,História,Sim
+134,O Tempo e o Vento: O Continente,Erico Verissimo,1949,História,Sim
+135,O Cântico de Roland,Turoldo,Século XI,História,Sim
+136,Longo Caminho Para a Liberdade,Nelson Mandela,1994,Biografia e Memórias,Sim
+137,Steve Jobs: A Biografia,Walter Isaacson,2011,Biografia e Memórias,Sim
+138,Eu Sou Malala,Malala Yousafzai,2013,Biografia e Memórias,Sim
+139,O Diário de Anne Frank,Anne Frank,1947,Biografia e Memórias,Sim
+140,Mindhunter,John Douglas,1995,Biografia e Memórias,Sim
+141,Elon Musk,Ashlee Vance,2015,Biografia e Memórias,Sim
+142,Cinderela Chinesa,Adeline Yen Mah,1999,Biografia e Memórias,Sim
+143,Confissões,Santo Agostinho,400,Biografia e Memórias,Sim
+144,A Bailarina de Auschwitz,Edith Eger,2017,Biografia e Memórias,Sim
+145,Uma Terra Prometida,Barack Obama,2020,Biografia e Memórias,Sim
+146,O Poder do Hábito,Charles Duhigg,2012,Autoajuda e Ciência,Sim
+147,Uma Breve História do Tempo,Stephen Hawking,1988,Autoajuda e Ciência,Sim
+148,Como Fazer Amigos e Influenciar Pessoas,Dale Carnegie,1936,Autoajuda e Ciência,Sim
+149,Cosmos,Carl Sagan,1980,Autoajuda e Ciência,Sim
+150,Quiet: O Poder dos Quietos,Susan Cain,2012,Autoajuda e Ciência,Sim
+151,Neuromante,William Gibson,1984,Ficção Científica e Fantasia,Sim
+152,Admirável Mundo Novo,Aldous Huxley,1932,Ficção Científica e Fantasia,Sim
+153,A Mão Esquerda da Escuridão,Ursula K. Le Guin,1969,Ficção Científica e Fantasia,Sim
+154,O Guia do Mochileiro das Galáxias,Douglas Adams,1979,Ficção Científica e Fantasia,Sim
+155,O Nome do Vento,Patrick Rothfuss,2007,Ficção Científica e Fantasia,Sim
+156,Contato,Carl Sagan,1985,Ficção Científica e Fantasia,Sim
+157,IT: A Coisa,Stephen King,1986,"Thriller, Suspense e Terror",Sim
+158,O Exorcista,William Peter Blatty,1971,"Thriller, Suspense e Terror",Sim
+159,O Iluminado,Stephen King,1977,"Thriller, Suspense e Terror",Sim
+160,O Silêncio dos Inocentes,Thomas Harris,1988,"Thriller, Suspense e Terror",Sim
+161,Drácula,Bram Stoker,1897,"Thriller, Suspense e Terror",Sim
+162,O Cemitério,Stephen King,1983,"Thriller, Suspense e Terror",Sim
+163,A Garota no Trem,Paula Hawkins,2015,"Thriller, Suspense e Terror",Sim
+164,Gone Girl (Garota Exemplar),Gillian Flynn,2012,"Thriller, Suspense e Terror",Sim
+165,A Paciente Silenciosa,Alex Michaelides,2019,"Thriller, Suspense e Terror",Sim
+166,Caixa de Pássaros,Josh Malerman,2014,"Thriller, Suspense e Terror",Sim
+167,Cem Anos de Solidão,Gabriel García Márquez,1967,Literatura,Sim
+168,O Sol é para Todos,Harper Lee,1960,Literatura,Sim
+169,O Grande Gatsby,F. Scott Fitzgerald,1925,Literatura,Sim
+170,Orgulho e Preconceito,Jane Austen,1813,Literatura,Sim
+171,Crime e Castigo,Fiódor Dostoiévski,1866,Literatura,Sim
+172,Moby Dick,Herman Melville,1851,Literatura,Sim
+173,Dom Casmurro,Machado de Assis,1899,Literatura,Sim
+174,As Vinhas da Ira,John Steinbeck,1939,Literatura,Sim
+175,O Estrangeiro,Albert Camus,1942,Literatura,Sim
+176,Vidas Secas,Graciliano Ramos,1938,Literatura,Sim
+177,Sapiens: Uma Breve História da Humanidade,Yuval Noah Harari,2011,História,Sim
+178,Escravidão,Laurentino Gomes,2019,História,Sim
+179,Raízes do Brasil,Sérgio Buarque de Holanda,1936,História,Sim
+180,Holocausto: Uma História,Deborah Dwork,2001,História,Sim
+181,Brasil: Uma Biografia,Lilia Moritz Schwarcz,2015,História,Sim
+182,O Capital,Karl Marx,1867,História,Sim
+183,O Príncipe,Nicolau Maquiavel,1532,História,Sim
+184,A Arte da Guerra,Sun Tzu,Século V a.C.,História,Sim
+185,Círculo de Fogo,Bernard Cornwell,1993,História,Sim
+186,A Revolução Francesa,Thomas Carlyle,1837,História,Sim
+187,Steve Jobs: A Biografia,Walter Isaacson,2011,Biografia e Memórias,Sim
+188,Longo Caminho Para a Liberdade,Nelson Mandela,1994,Biografia e Memórias,Sim
+189,Eu Sou Malala,Malala Yousafzai,2013,Biografia e Memórias,Sim
+190,O Diário de Anne Frank,Anne Frank,1947,Biografia e Memórias,Sim
+191,Mindhunter,John Douglas,1995,Biografia e Memórias,Sim
+192,Elon Musk,Ashlee Vance,2015,Biografia e Memórias,Sim
+193,Cinderela Chinesa,Adeline Yen Mah,1999,Biografia e Memórias,Sim
+194,Confissões,Santo Agostinho,400,Biografia e Memórias,Sim
+195,A Bailarina de Auschwitz,Edith Eger,2017,Biografia e Memórias,Sim
+196,Uma Terra Prometida,Barack Obama,2020,Biografia e Memórias,Sim
+197,O Poder do Hábito,Charles Duhigg,2012,Autoajuda e Ciência,Sim
+198,Uma Breve História do Tempo,Stephen Hawking,1988,Autoajuda e Ciência,Sim
+199,Como Fazer Amigos e Influenciar Pessoas,Dale Carnegie,1936,Autoajuda e Ciência,Sim
+200,Cosmos,Carl Sagan,1980,Autoajuda e Ciência,Sim
+ID_Livro,Título,Autor,Ano,Gênero,Disponível
+201,Box As Crônicas de Gelo e Fogo,George R.R. Martin,1996,Ficção Científica e Fantasia,Sim
+202,Box The Witcher,Andrzej Sapkowski,1993,Ficção Científica e Fantasia,Sim
+203,Box Duna,Frank Herbert,1965,Ficção Científica e Fantasia,Sim
+204,Box Fundação,Isaac Asimov,1951,Ficção Científica e Fantasia,Sim
+205,Box A Roda do Tempo,Robert Jordan,1990,Ficção Científica e Fantasia,Sim
+206,A Maldição do Titã (Percy Jackson),Rick Riordan,2007,Ficção Científica e Fantasia,Sim
+207,O Último Olimpiano (Percy Jackson),Rick Riordan,2009,Ficção Científica e Fantasia,Sim
+208,O Filho de Netuno (Heróis do Olimpo),Rick Riordan,2011,Ficção Científica e Fantasia,Sim
+209,Harry Potter e a Câmara Secreta,J.K. Rowling,1998,Ficção Científica e Fantasia,Sim
+210,Harry Potter e o Prisioneiro de Azkaban,J.K. Rowling,1999,Ficção Científica e Fantasia,Sim
+211,O Exorcismo de Emily Rose,Matt Baglio,2005,"Thriller, Suspense e Terror",Sim
+212,O Bebê de Rosemary,Ira Levin,1967,"Thriller, Suspense e Terror",Sim
+213,O Chamado de Cthulhu,H.P. Lovecraft,1928,"Thriller, Suspense e Terror",Sim
+214,A Garota Desaparecida,Paula Hawkins,2014,"Thriller, Suspense e Terror",Sim
+215,O Cão dos Baskervilles,Arthur Conan Doyle,1902,"Thriller, Suspense e Terror",Sim
+216,O Pássaro que cativa a Fúria,Val McDermid,2018,"Thriller, Suspense e Terror",Sim
+217,A Herança,Carlos Ruiz Zafón,2014,"Thriller, Suspense e Terror",Sim
+218,A Morte de Artemio Cruz,Carlos Fuentes,1962,Literatura,Sim
+219,O Tempo e o Vento: O Retrato,Erico Verissimo,1951,Literatura,Sim
+220,O Tempo e o Vento: O Arquipélago,Erico Verissimo,1961,Literatura,Sim
+221,Macunaíma,Mário de Andrade,1928,Literatura,Sim
+222,Quincas Borba,Machado de Assis,1891,Literatura,Sim
+223,Obras Completas,Carlos Drummond de Andrade,1930,Literatura,Sim
+224,Sentimento do Mundo,Carlos Drummond de Andrade,1940,Literatura,Sim
+225,Ensaio Sobre a Cegueira,José Saramago,1995,Literatura,Sim
+226,Memorial do Convento,José Saramago,1982,Literatura,Sim
+227,Guerra e Paz,Liev Tolstói,1869,Literatura,Sim
+228,Anna Kariênina,Liev Tolstói,1877,Literatura,Sim
+229,O Velho e o Mar,Ernest Hemingway,1952,Literatura,Sim
+230,O Retorno do Jovem Príncipe,Alejandro Roemmers,2008,Literatura,Sim
+231,Obras Completas,Carlos Drummond de Andrade,1930,História,Sim
+232,A Formação do Federalismo no Brasil,João Camilo Oliveira Torres,1961,História,Sim
+233,O Presidencialismo no Brasil,João Camilo Oliveira Torres,1974,História,Sim
+234,O Positivismo no Brasil,João Camilo Oliveira Torres,1975,História,Sim
+235,O Homem Cordial,Sérgio Buarque de Holanda,1936,História,Sim
+236,História do Brasil,Bóris Fausto,1994,História,Sim
+237,História Social do Brasil Vol.1,Pedro Calmon,1935,História,Sim
+238,História Social do Brasil Vol.2,Pedro Calmon,1937,História,Sim
+239,História Social do Brasil Vol.3,Pedro Calmon,1940,História,Sim
+240,Casa-Grande e Senzala,Gilberto Freyre,1933,História,Sim
+241,A Autobiografia de Malcolm X,Malcolm X,1965,Biografia e Memórias,Sim
+242,Minha História,Michelle Obama,2018,Biografia e Memórias,Sim
+243,A Bailarina de Auschwitz,Edith Eger,2017,Biografia e Memórias,Sim
+244,O Caminho de Casa,Mia Farrow,1997,Biografia e Memórias,Sim
+245,Uma Terra Prometida,Barack Obama,2020,Biografia e Memórias,Sim
+246,Steve Jobs: A Biografia,Walter Isaacson,2011,Biografia e Memórias,Sim
+247,Eu Sou Malala,Malala Yousafzai,2013,Biografia e Memórias,Sim
+248,Mindhunter,John Douglas,1995,Biografia e Memórias,Sim
+249,Elon Musk,Ashlee Vance,2015,Biografia e Memórias,Sim
+250,Longo Caminho Para a Liberdade,Nelson Mandela,1994,Biografia e Memórias,Sim
+251,O Andar do Bêbado,Leonard Mlodinow,2008,Autoajuda e Ciência,Sim
+252,A Dança Cósmica de Shiva,Fritjof Capra,1975,Autoajuda e Ciência,Sim
+253,Introdução à Lógica,Irving Copi,1953,Autoajuda e Ciência,Sim
+254,O Universo Elegante,Brian Greene,1999,Autoajuda e Ciência,Sim
+255,A Coragem de Ser Imperfeito,Brené Brown,2010,Autoajuda e Ciência,Sim
+256,Essencialismo,Greg McKeown,2014,Autoajuda e Ciência,Sim
+257,Os Sete Hábitos das Pessoas Altamente Eficazes,Stephen Covey,1989,Autoajuda e Ciência,Sim
+258,O Milagre da Manhã,Hal Elrod,2012,Autoajuda e Ciência,Sim
+259,Foco,Daniel Goleman,2013,Autoajuda e Ciência,Sim
+260,Cartas a um Jovem Poeta,Rainer Maria Rilke,1929,Autoajuda e Ciência,Sim
+261,O Despertar do Leviatã (The Expanse),James S.A. Corey,2011,Ficção Científica e Fantasia,Sim
+262,A Odisseia de Véspera,Peter F. Hamilton,2002,Ficção Científica e Fantasia,Sim
+263,O Espadachim de Carvão,Affonso Solano,2011,Ficção Científica e Fantasia,Sim
+264,Box Percy Jackson,Rick Riordan,2005,Ficção Científica e Fantasia,Sim
+265,Box Trilogia Jogos Vorazes,Suzanne Collins,2008,Ficção Científica e Fantasia,Sim
+266,A Rapariga Dinamarquesa,David Ebershoff,2000,Literatura,Sim
+267,O Fim de Toda Tristeza,James Joyce,1914,Literatura,Sim
+268,O Despertar,Kate Chopin,1899,Literatura,Sim
+269,O Retorno do Jovem Príncipe,Alejandro Roemmers,2008,Literatura,Sim
+270,O Vendedor de Sonhos,Augusto Cury,2008,Literatura,Sim
+271,O Mago,John Fowles,1965,"Thriller, Suspense e Terror",Sim
+272,A Garota no Nevoeiro,Robert Bryndza,2017,"Thriller, Suspense e Terror",Sim
+273,O Nome do Medo,José Rodrigues dos Santos,2014,"Thriller, Suspense e Terror",Sim
+274,O Caixão de Vidro,Holly Black,2018,"Thriller, Suspense e Terror",Sim
+275,O Homem que Viu o Futuro,Thomas Harris,1975,"Thriller, Suspense e Terror",Sim
+276,Sobrados e Mucambos,Gilberto Freyre,1936,História,Sim
+277,Interpretação do Brasil,Gilberto Freyre,1947,História,Sim
+278,Ordem e Progresso,Gilberto Freyre,1959,História,Sim
+279,História Econômica do Brasil,Caio Prado Jr,1959,História,Sim
+280,Evolução Política do Brasil,Caio Prado Jr,1966,História,Sim
+281,A Autobiografia de Malcolm X,Malcolm X,1965,Biografia e Memórias,Sim
+282,O Caminho de Casa,Mia Farrow,1997,Biografia e Memórias,Sim
+283,Obras Completas,Carlos Drummond de Andrade,1930,Literatura,Sim
+284,A Rosa do Povo,Carlos Drummond de Andrade,1945,Literatura,Sim
+285,Sentimento do Mundo,Carlos Drummond de Andrade,1940,Literatura,Sim
+286,O Auto da Compadecida,Ariano Suassuna,1955,Literatura,Sim
+287,Ensaio Sobre a Cegueira,José Saramago,1995,Literatura,Sim
+288,Memorial do Convento,José Saramago,1982,Literatura,Sim
+289,O Velho e o Mar,Ernest Hemingway,1952,Literatura,Sim
+290,Obras Completas,Carlos Drummond de Andrade,1930,História,Sim
+291,A Formação do Federalismo no Brasil,João Camilo Oliveira Torres,1961,História,Sim
+292,O Presidencialismo no Brasil,João Camilo Oliveira Torres,1974,História,Sim
+293,O Positivismo no Brasil,João Camilo Oliveira Torres,1975,História,Sim
+294,O Homem Cordial,Sérgio Buarque de Holanda,1936,História,Sim
+295,História do Brasil,Bóris Fausto,1994,História,Sim
+296,Obras Completas,Carlos Drummond de Andrade,1930,Biografia e Memórias,Sim
+297,A Coragem de Ser Imperfeito,Brené Brown,2010,Autoajuda e Ciência,Sim
+298,Essencialismo,Greg McKeown,2014,Autoajuda e Ciência,Sim
+299,Os Sete Hábitos das Pessoas Altamente Eficazes,Stephen Covey,1989,Autoajuda e Ciência,Sim
+300,A Dança Cósmica de Shiva,Fritjof Capra,1975,Autoajuda e Ciência,Sim
+ID_Livro,Título,Autor,Ano,Gênero,Disponível
+301,Trono de Vidro,Sarah J. Maas,2012,Ficção Científica e Fantasia,Sim
+302,Seis de Corvos,Leigh Bardugo,2015,Ficção Científica e Fantasia,Sim
+303,O Castelo Animado,Diana Wynne Jones,1986,Ficção Científica e Fantasia,Sim
+304,A História Interminável,Michael Ende,1979,Ficção Científica e Fantasia,Sim
+305,O Homem Invisível,H.G. Wells,1897,Ficção Científica e Fantasia,Sim
+306,A Máquina do Tempo,H.G. Wells,1895,Ficção Científica e Fantasia,Sim
+307,A Lenda do Tesouro Perdido,David C. Murray,2007,"Thriller, Suspense e Terror",Sim
+308,A Janela Secreta,Stephen King,1990,"Thriller, Suspense e Terror",Sim
+309,A Semente do Mal,Val McDermid,2002,"Thriller, Suspense e Terror",Sim
+310,A Rainha do Sul,Arturo Pérez-Reverte,2002,"Thriller, Suspense e Terror",Sim
+311,O Retrato de Dorian Gray,Oscar Wilde,1890,Literatura,Sim
+312,O Processo,Franz Kafka,1925,Literatura,Sim
+313,O Morro dos Ventos Uivantes,Emily Brontë,1847,Literatura,Sim
+314,Obras Completas,José de Alencar,1862,Literatura,Sim
+315,A História das Ideias Religiosas no Brasil,João Camilo Oliveira Torres,1968,História,Sim
+316,A Ideia Revolucionária no Brasil,João Camilo Oliveira Torres,1968,História,Sim
+317,Obras Completas,Sérgio Buarque de Holanda,1936,História,Sim
+318,Sobrados e Mucambos,Gilberto Freyre,1936,História,Sim
+319,Box As Brumas de Avalon,Marion Zimmer Bradley,1982,Ficção Científica e Fantasia,Sim
+320,A Rapariga Dinamarquesa,David Ebershoff,2000,Literatura,Sim
+321,Obras Completas,Malala Yousafzai,2013,Biografia e Memórias,Sim
+322,Autobiografia,Mia Farrow,1997,Biografia e Memórias,Sim
+323,A Linguagem dos Pássaros,Farid ud-Din Attar,Século XII,Ficção Científica e Fantasia,Sim
+324,Box Percy Jackson,Rick Riordan,2005,Ficção Científica e Fantasia,Sim
+325,Box Trilogia Jogos Vorazes,Suzanne Collins,2008,Ficção Científica e Fantasia,Sim
+326,A Rapariga Dinamarquesa,David Ebershoff,2000,Literatura,Sim
+327,O Fim de Toda Tristeza,James Joyce,1914,Literatura,Sim
+328,O Despertar,Kate Chopin,1899,Literatura,Sim
+329,O Vendedor de Sonhos,Augusto Cury,2008,Literatura,Sim
+330,Extraordinário,R.J. Palacio,2012,Literatura,Sim
+331,A Rapariga Dinamarquesa,David Ebershoff,2000,"Thriller, Suspense e Terror",Sim
+332,O Caixão de Vidro,Holly Black,2018,"Thriller, Suspense e Terror",Sim
+333,A Lista de Convidados,Lucy Fokley,2020,"Thriller, Suspense e Terror",Sim
+334,A Última Coisa Que Ele Me Contou,Laura Dave,2021,"Thriller, Suspense e Terror",Sim
+335,O Homem Que Viu o Futuro,Thomas Harris,1975,"Thriller, Suspense e Terror",Sim
+336,História Social do Brasil Vol.3,Pedro Calmon,1940,História,Sim
+337,Sobrados e Mucambos,Gilberto Freyre,1936,História,Sim
+338,Interpretação do Brasil,Gilberto Freyre,1947,História,Sim
+339,Ordem e Progresso,Gilberto Freyre,1959,História,Sim
+340,Formação do Brasil Contemporâneo,Caio Prado Jr,1942,História,Sim
+341,A Autobiografia de Malcolm X,Malcolm X,1965,Biografia e Memórias,Sim
+342,O Caminho de Casa,Mia Farrow,1997,Biografia e Memórias,Sim
+343,Box Obras Completas,Barack Obama,2020,Biografia e Memórias,Sim
+344,Obras Completas,Edith Eger,2017,Biografia e Memórias,Sim
+345,Obras Completas,Michelle Obama,2018,Biografia e Memórias,Sim
+346,Box O Pequeno Príncipe,Antoine de Saint-Exupéry,1943,Literatura,Sim
+347,A Rosa do Povo,Carlos Drummond de Andrade,1945,Literatura,Sim
+348,Sentimento do Mundo,Carlos Drummond de Andrade,1940,Literatura,Sim
+349,Obras Completas,Machado de Assis,1881,Literatura,Sim
+350,Ensaio Sobre a Cegueira,José Saramago,1995,Literatura,Sim
+351,A Coragem de Ser Imperfeito,Brené Brown,2010,Autoajuda e Ciência,Sim
+352,Essencialismo,Greg McKeown,2014,Autoajuda e Ciência,Sim
+353,Os Sete Hábitos das Pessoas Altamente Eficazes,Stephen Covey,1989,Autoajuda e Ciência,Sim
+354,O Milagre da Manhã,Hal Elrod,2012,Autoajuda e Ciência,Sim
+355,Foco,Daniel Goleman,2013,Autoajuda e Ciência,Sim
+356,O Andar do Bêbado,Leonard Mlodinow,2008,Autoajuda e Ciência,Sim
+357,A Dança Cósmica de Shiva,Fritjof Capra,1975,Autoajuda e Ciência,Sim
+358,Introdução à Lógica,Irving Copi,1953,Autoajuda e Ciência,Sim
+359,O Universo Elegante,Brian Greene,1999,Autoajuda e Ciência,Sim
+360,Obras Completas,L. Frank Baum,1900,Ficção Científica e Fantasia,Sim
+361,Obras Completas,Patrick Rothfuss,2011,Ficção Científica e Fantasia,Sim
+362,Sombra e Ossos: Ruína e Ascensão,Leigh Bardugo,2014,Ficção Científica e Fantasia,Sim
+363,Six of Crows: Sangue e Mentiras,Leigh Bardugo,2015,Ficção Científica e Fantasia,Sim
+364,Obras Completas,Florbela Espanca,1920,Literatura,Sim
+365,O Quinze,Rachel de Queiroz,1930,Literatura,Sim
+366,"Gabriela, Cravo e Canela",Jorge Amado,1958,Literatura,Sim
+367,Capitães da Areia,Jorge Amado,1937,Literatura,Sim
+368,O Tempo e o Vento: O Retrato,Erico Verissimo,1951,Literatura,Sim
+369,Obras Completas,Mário de Andrade,1928,Literatura,Sim
+370,Obras Completas,Machado de Assis,1891,Literatura,Sim
+371,Obras Completas,Raul Pompeia,1888,Literatura,Sim
+372,O Cortiço,Aluísio Azevedo,1890,Literatura,Sim
+373,Iracema,José de Alencar,1865,Literatura,Sim
+374,Obras Completas,José de Alencar,1875,Literatura,Sim
+375,Lucíola,José de Alencar,1862,Literatura,Sim
+376,O Guarani,José de Alencar,1857,Literatura,Sim
+377,Obras Completas,Ernest Hemingway,1952,Literatura,Sim
+378,Obras Completas,George Orwell,1945,Literatura,Sim
+379,Obras Completas,Virginia Woolf,1925,Literatura,Sim
+380,Obras Completas,Carlos Fuentes,1962,Literatura,Sim
+381,A História das Ideias Religiosas no Brasil,João Camilo Oliveira Torres,1968,História,Sim
+382,A Formação do Federalismo no Brasil,João Camilo Oliveira Torres,1961,História,Sim
+383,O Presidencialismo no Brasil,João Camilo Oliveira Torres,1974,História,Sim
+384,O Positivismo no Brasil,João Camilo Oliveira Torres,1975,História,Sim
+385,História Social do Brasil Vol.1,Pedro Calmon,1935,História,Sim
+386,História Social do Brasil Vol.2,Pedro Calmon,1937,História,Sim
+387,História Social do Brasil Vol.3,Pedro Calmon,1940,História,Sim
+388,Sobrados e Mucambos,Gilberto Freyre,1936,História,Sim
+389,Interpretação do Brasil,Gilberto Freyre,1947,História,Sim
+390,Ordem e Progresso,Gilberto Freyre,1959,História,Sim
+391,Obras Completas,Malcolm X,1965,Biografia e Memórias,Sim
+392,Obras Completas,Mia Farrow,1997,Biografia e Memórias,Sim
+393,Obras Completas,Barack Obama,2020,Biografia e Memórias,Sim
+394,Obras Completas,Edith Eger,2017,Biografia e Memórias,Sim
+395,Obras Completas,Michelle Obama,2018,Biografia e Memórias,Sim
+396,Obras Completas,Brené Brown,2010,Autoajuda e Ciência,Sim
+397,Obras Completas,Greg McKeown,2014,Autoajuda e Ciência,Sim
+398,Obras Completas,Stephen Covey,1989,Autoajuda e Ciência,Sim
+399,Obras Completas,Hal Elrod,2012,Autoajuda e Ciência,Sim
+400,Obras Completas,Daniel Goleman,2013,Autoajuda e Ciência,Sim
+ID_Livro,Título,Autor,Ano,Gênero,Disponível
+401,Obras Completas,Frank Herbert,1965,Ficção Científica e Fantasia,Sim
+402,Obras Completas,George Orwell,1949,Ficção Científica e Fantasia,Sim
+403,Obras Completas,J.R.R. Tolkien,1954,Ficção Científica e Fantasia,Sim
+404,Obras Completas,Isaac Asimov,1951,Ficção Científica e Fantasia,Sim
+405,Obras Completas,William Gibson,1984,Ficção Científica e Fantasia,Sim
+406,Obras Completas,Aldous Huxley,1932,Ficção Científica e Fantasia,Sim
+407,Obras Completas,Ursula K. Le Guin,1969,Ficção Científica e Fantasia,Sim
+408,Obras Completas,Douglas Adams,1979,Ficção Científica e Fantasia,Sim
+409,Obras Completas,Patrick Rothfuss,2007,Ficção Científica e Fantasia,Sim
+410,Obras Completas,Carl Sagan,1985,Ficção Científica e Fantasia,Sim
+411,Obras Completas,Stephen King,1986,"Thriller, Suspense e Terror",Sim
+412,Obras Completas,William Peter Blatty,1971,"Thriller, Suspense e Terror",Sim
+413,Obras Completas,Stephen King,1977,"Thriller, Suspense e Terror",Sim
+414,Obras Completas,Thomas Harris,1988,"Thriller, Suspense e Terror",Sim
+415,Obras Completas,Bram Stoker,1897,"Thriller, Suspense e Terror",Sim
+416,Obras Completas,Stephen King,1983,"Thriller, Suspense e Terror",Sim
+417,Obras Completas,Paula Hawkins,2015,"Thriller, Suspense e Terror",Sim
+418,Obras Completas,Gillian Flynn,2012,"Thriller, Suspense e Terror",Sim
+419,Obras Completas,Alex Michaelides,2019,"Thriller, Suspense e Terror",Sim
+420,Obras Completas,Josh Malerman,2014,"Thriller, Suspense e Terror",Sim
+421,Obras Completas,Gabriel García Márquez,1967,Literatura,Sim
+422,Obras Completas,Harper Lee,1960,Literatura,Sim
+423,Obras Completas,F. Scott Fitzgerald,1925,Literatura,Sim
+424,Obras Completas,Jane Austen,1813,Literatura,Sim
+425,Obras Completas,Fiódor Dostoiévski,1866,Literatura,Sim
+426,Obras Completas,Herman Melville,1851,Literatura,Sim
+427,Obras Completas,Machado de Assis,1899,Literatura,Sim
+428,Obras Completas,John Steinbeck,1939,Literatura,Sim
+429,Obras Completas,Albert Camus,1942,Literatura,Sim
+430,Obras Completas,Graciliano Ramos,1938,Literatura,Sim
+431,Obras Completas,Yuval Noah Harari,2011,História,Sim
+432,Obras Completas,Laurentino Gomes,2019,História,Sim
+433,Obras Completas,Sérgio Buarque de Holanda,1936,História,Sim
+434,Obras Completas,Deborah Dwork,2001,História,Sim
+435,Obras Completas,Lilia Moritz Schwarcz,2015,História,Sim
+436,Obras Completas,Karl Marx,1867,História,Sim
+437,Obras Completas,Nicolau Maquiavel,1532,História,Sim
+438,Obras Completas,Sun Tzu,Século V a.C.,História,Sim
+439,Obras Completas,Bernard Cornwell,1993,História,Sim
+440,Obras Completas,Thomas Carlyle,1837,História,Sim
+441,Obras Completas,Walter Isaacson,2011,Biografia e Memórias,Sim
+442,Obras Completas,Nelson Mandela,1994,Biografia e Memórias,Sim
+443,Obras Completas,Malala Yousafzai,2013,Biografia e Memórias,Sim
+444,Obras Completas,Anne Frank,1947,Biografia e Memórias,Sim
+445,Obras Completas,John Douglas,1995,Biografia e Memórias,Sim
+446,Obras Completas,Ashlee Vance,2015,Biografia e Memórias,Sim
+447,Obras Completas,Adeline Yen Mah,1999,Biografia e Memórias,Sim
+448,Obras Completas,Santo Agostinho,400,Biografia e Memórias,Sim
+449,Obras Completas,Edith Eger,2017,Biografia e Memórias,Sim
+450,Obras Completas,Barack Obama,2020,Biografia e Memórias,Sim
+451,Obras Completas,Charles Duhigg,2012,Autoajuda e Ciência,Sim
+452,Obras Completas,Stephen Hawking,1988,Autoajuda e Ciência,Sim
+453,Obras Completas,Dale Carnegie,1936,Autoajuda e Ciência,Sim
+454,Obras Completas,Carl Sagan,1980,Autoajuda e Ciência,Sim
+455,Obras Completas,Susan Cain,2012,Autoajuda e Ciência,Sim
+456,Obras Completas,Mark Manson,2016,Autoajuda e Ciência,Sim
+457,Obras Completas,Daniel Kahneman,2011,Autoajuda e Ciência,Sim
+458,Obras Completas,Stephen Hawking,2002,Autoajuda e Ciência,Sim
+459,Obras Completas,Eckhart Tolle,1997,Autoajuda e Ciência,Sim
+460,Obras Completas,Clarissa Pinkola Estés,1992,Autoajuda e Ciência,Sim
+461,Obras Completas,Frank Herbert,1965,Ficção Científica e Fantasia,Sim
+462,Obras Completas,George Orwell,1949,Ficção Científica e Fantasia,Sim
+463,Obras Completas,J.R.R. Tolkien,1954,Ficção Científica e Fantasia,Sim
+464,Obras Completas,Isaac Asimov,1951,Ficção Científica e Fantasia,Sim
+465,Obras Completas,William Gibson,1984,Ficção Científica e Fantasia,Sim
+466,Obras Completas,Aldous Huxley,1932,Ficção Científica e Fantasia,Sim
+467,Obras Completas,Ursula K. Le Guin,1969,Ficção Científica e Fantasia,Sim
+468,Obras Completas,Douglas Adams,1979,Ficção Científica e Fantasia,Sim
+469,Obras Completas,Patrick Rothfuss,2007,Ficção Científica e Fantasia,Sim
+470,Obras Completas,Carl Sagan,1985,Ficção Científica e Fantasia,Sim
+471,Obras Completas,Stephen King,1986,"Thriller, Suspense e Terror",Sim
+472,Obras Completas,William Peter Blatty,1971,"Thriller, Suspense e Terror",Sim
+473,Obras Completas,Stephen King,1977,"Thriller, Suspense e Terror",Sim
+474,Obras Completas,Thomas Harris,1988,"Thriller, Suspense e Terror",Sim
+475,Obras Completas,Bram Stoker,1897,"Thriller, Suspense e Terror",Sim
+476,Obras Completas,Stephen King,1983,"Thriller, Suspense e Terror",Sim
+477,Obras Completas,Paula Hawkins,2015,"Thriller, Suspense e Terror",Sim
+478,Obras Completas,Gillian Flynn,2012,"Thriller, Suspense e Terror",Sim
+479,Obras Completas,Alex Michaelides,2019,"Thriller, Suspense e Terror",Sim
+480,Obras Completas,Josh Malerman,2014,"Thriller, Suspense e Terror",Sim
+481,Obras Completas,Gabriel García Márquez,1967,Literatura,Sim
+482,Obras Completas,Harper Lee,1960,Literatura,Sim
+483,Obras Completas,F. Scott Fitzgerald,1925,Literatura,Sim
+484,Obras Completas,Jane Austen,1813,Literatura,Sim
+485,Obras Completas,Fiódor Dostoiévski,1866,Literatura,Sim
+486,Obras Completas,Herman Melville,1851,Literatura,Sim
+487,Obras Completas,Machado de Assis,1899,Literatura,Sim
+488,Obras Completas,John Steinbeck,1939,Literatura,Sim
+489,Obras Completas,Albert Camus,1942,Literatura,Sim
+490,Obras Completas,Graciliano Ramos,1938,Literatura,Sim
+491,Obras Completas,Yuval Noah Harari,2011,História,Sim
+492,Obras Completas,Laurentino Gomes,2019,História,Sim
+493,Obras Completas,Sérgio Buarque de Holanda,1936,História,Sim
+494,Obras Completas,Deborah Dwork,2001,História,Sim
+495,Obras Completas,Lilia Moritz Schwarcz,2015,História,Sim
+496,Obras Completas,Karl Marx,1867,História,Sim
+497,Obras Completas,Nicolau Maquiavel,1532,História,Sim
+498,Obras Completas,Sun Tzu,Século V a.C.,História,Sim
+499,Obras Completas,Bernard Cornwell,1993,História,Sim
+500,Obras Completas,Thomas Carlyle,1837,História,Sim

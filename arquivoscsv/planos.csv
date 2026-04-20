@@ -1,0 +1,4 @@
+ID_Plano,Tipo_Plano,Max_Livros,Prazo_Dias,Multa_Diaria,Valor_Mensal
+1,Basico,3,7,1.00,19.90
+2,Premium,5,14,1.00,29.90
+3,VIP,10,21,1.00,49.90
