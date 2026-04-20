@@ -1,29 +1,3 @@
-# =============================================================================
-#  ETL AUTOMÁTICO – SISTEMA DE BIBLIOTECA
-#  Versão local — roda no VS Code / terminal Windows, Mac ou Linux
-# =============================================================================
-#
-#  PASSO 1 — instale as dependências (só precisa fazer uma vez):
-#    pip install pandas openpyxl
-#
-#  PASSO 2 — coloque este arquivo e as pastas assim:
-#
-#   sistemaetl\                  <- pasta raiz (pode ter qualquer nome)
-#   ├── etl_biblioteca.py        <- este arquivo
-#   ├── arquivoscsv\
-#   │   ├── usuarios_100.csv
-#   │   ├── livros.csv
-#   │   └── planos.csv
-#   └── arquivosxml\
-#       ├── historico_mes_01.xml
-#       └── ... (até o mês 12)
-#
-#  PASSO 3 — execute:
-#    python etl_biblioteca.py
-#
-#  O relatório será salvo na mesma pasta do script.
-# =============================================================================
-
 import os
 import xml.etree.ElementTree as ET
 from datetime import datetime
